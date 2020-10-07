@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199353016794",
+    "firebase_url": "https://bibleapp-20c21.firebaseio.com",
+    "project_id": "bibleapp-20c21",
+    "storage_bucket": "bibleapp-20c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199353016794:android:859be2c3845a59d970a0e3",
+        "android_client_info": {
+          "package_name": "com.example.bible_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199353016794-6mqmnv5oul5qc4i7o0j4vd9dpgv4b04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sD1MAfCxR-Hcp2ALb4V-H6zUzOoYwkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199353016794-6mqmnv5oul5qc4i7o0j4vd9dpgv4b04v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
