@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 class UserInfo{
 
-  final int inCircle;
+  int inCircle;
   final int whichCircle;
   final bool isfinished;
   final String username;
